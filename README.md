@@ -1,5 +1,4 @@
 # hello-world
-Just another repo
 
 What up fam! 
 I am a sophomore at UC Berkeley studying Public Health and Data Science.
